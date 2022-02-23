@@ -6,6 +6,15 @@
     justify-content: center;
 
 }
+.card-fullsize {
+    width: 100% !important;
+}
+.disp-none {
+    display: none;
+}
+.disp-block {
+    display: block !important;
+}
 .slider-wapper{
     max-width: 800px;
     width: 100%;
@@ -67,8 +76,3 @@ span{
 span:last-child{
     margin-right: 0;
 }
-
-
-
-
-
